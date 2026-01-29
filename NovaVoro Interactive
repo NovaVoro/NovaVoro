@@ -1,0 +1,36 @@
+NovaVoro Interactive
+Architecting living systems, one iteration at a time
+NovaVoro Interactive is a micro‑studio focused on building emotionally resonant worlds through modular systems, rigorous diagnostics, and iterative refinement. 
+Founded and led by Travis Daily, the studio blends narrative design, technical architecture, and hands‑on engineering across Unity, machine learning, and custom tooling.
+
+🌐 Studio Philosophy
+- Systems first. Every feature—camera rigs, terrain pipelines, AI behaviors, or data workflows—begins with a scalable architecture and evolves through iteration.
+- Diagnostics over guesswork. Granular logs, watcher scripts, and reproducible tests drive every fix and refinement.
+- Clarity is a feature. Clean code, clean structure, clean documentation.
+- Worlds with intent. Lore, mechanics, and atmosphere are treated as a unified design problem.
+- Creative engineering. Technical breakthroughs are celebrated as narrative milestones.
+
+🛠️ Core Competencies
+Unity Development
+- Modular camera architectures (first‑person, third‑person, top‑down, cinematic blending)
+- Terrain pipelines with region‑aware shaders, biome mapping, and prop spawning
+- Prefab‑safe UI systems, runtime reference healing, and scene‑level diagnostics
+- Physics debugging, CharacterController tuning, and project‑level stability analysis
+Machine Learning & Data Science
+- Time‑series forecasting with robust diagnostics (RMSE, residuals, feature engineering)
+- Clean, modular pipelines for data ingestion, transformation, and evaluation
+- Scientific rigor in optimization, regularization, and error analysis
+Systems & Infrastructure
+- Windows environment setup, PowerShell automation, registry and service management
+- Web infrastructure, DNS configuration, registrar transfers, and branded email campaigns
+- Documentation pipelines, onboarding guides, and studio‑grade workflow organization
+
+👤 About the Developer
+Travis Daily
+Founder & Creative Director — NovaVoro Interactive
+Architect of technical systems, narrative frameworks, and studio workflows.
+- Hands‑on with Unity, ML, Windows sysadmin, and web infrastructure
+- Obsessed with clarity, modularity, and emotionally resonant design
+- Builds worlds and pipelines with equal passion
+- Treats debugging as a creative process
+- Energized by iterative progress and future‑focused architecture
